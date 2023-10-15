@@ -1,0 +1,14 @@
+D:\Projects\PatternStateEducation\bin\Debug\net7.0\PatternStateEducation.exe
+D:\Projects\PatternStateEducation\bin\Debug\net7.0\PatternStateEducation.deps.json
+D:\Projects\PatternStateEducation\bin\Debug\net7.0\PatternStateEducation.runtimeconfig.json
+D:\Projects\PatternStateEducation\bin\Debug\net7.0\PatternStateEducation.dll
+D:\Projects\PatternStateEducation\bin\Debug\net7.0\PatternStateEducation.pdb
+D:\Projects\PatternStateEducation\obj\Debug\net7.0\PatternStateEducation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PatternStateEducation\obj\Debug\net7.0\PatternStateEducation.AssemblyInfoInputs.cache
+D:\Projects\PatternStateEducation\obj\Debug\net7.0\PatternStateEducation.AssemblyInfo.cs
+D:\Projects\PatternStateEducation\obj\Debug\net7.0\PatternStateEducation.csproj.CoreCompileInputs.cache
+D:\Projects\PatternStateEducation\obj\Debug\net7.0\PatternStateEducation.dll
+D:\Projects\PatternStateEducation\obj\Debug\net7.0\refint\PatternStateEducation.dll
+D:\Projects\PatternStateEducation\obj\Debug\net7.0\PatternStateEducation.pdb
+D:\Projects\PatternStateEducation\obj\Debug\net7.0\PatternStateEducation.genruntimeconfig.cache
+D:\Projects\PatternStateEducation\obj\Debug\net7.0\ref\PatternStateEducation.dll
