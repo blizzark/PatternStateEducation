@@ -10,8 +10,10 @@ class Program{
         trafficLight.ProhibitionSignal();
         trafficLight.PermissiveSignal();
         trafficLight.PermissiveSignal();
-        trafficLight.PermissiveSignal();
+        trafficLight.Broken();
+        trafficLight.Broken();
         trafficLight.ProhibitionSignal();
+        trafficLight.PermissiveSignal();
         trafficLight.ProhibitionSignal();
         trafficLight.ProhibitionSignal();
         trafficLight.ProhibitionSignal();

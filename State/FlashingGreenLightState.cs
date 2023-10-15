@@ -2,6 +2,7 @@ namespace PatternStateEducation.State;
 
 public class FlashingGreenLightState  : ITrafficLight
 {
+
     public void PermissiveSignal(TrafficLight trafficLight){
 
     }

@@ -11,6 +11,10 @@ public class TrafficLight
         State = trafficLight;
     }
 
+    public void Broken(){
+        State?.Broken(this);
+    }
+
     public void PermissiveSignal(){
         State?.PermissiveSignal(this);
     }
