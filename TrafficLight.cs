@@ -4,18 +4,18 @@ namespace PatternStateEducation;
 
 public class TrafficLight
 {
-    ITrafficLight? _state {get; set;}
+    public ITrafficLight? State {get; set;}
 
     public TrafficLight(ITrafficLight trafficLight)
     {
-        _state = trafficLight;
+        State = trafficLight;
     }
 
     public void PermissiveSignal(){
-        _state?.PermissiveSignal(this);
+        State?.PermissiveSignal(this);
     }
     public void ProhibitionSignal(){
-        _state?.ProhibitionSignal(this);
+        State?.ProhibitionSignal(this);
     }
 
 }
